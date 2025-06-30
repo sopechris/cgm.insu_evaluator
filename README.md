@@ -1,6 +1,6 @@
-# 🩺 Anomalies Analysis Notebook
+# 🩺 CGM and Insulin Analysis Notebook
 
-This repository contains the **Anomalies Analysis** Jupyter notebook, which provides a comprehensive workflow for analyzing glucose, insulin, and related physiological data. The notebook is designed for diabetes data analysis, focusing on daily and weekly trends, bootstrapped confidence intervals, and anomaly detection.
+This repository contains the **CGM/Insulin Analysis** Jupyter notebook, which provides a comprehensive workflow for analyzing glucose, insulin, and related physiological data. The notebook is designed for diabetes data analysis, focusing on daily and weekly trends, bootstrapped confidence intervals, and anomaly detection.
 
 ## ✨ Features
 
