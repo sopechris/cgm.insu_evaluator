@@ -25,9 +25,10 @@ This repository contains the **Anomalies Analysis** Jupyter notebook, which prov
   - Flags days based on TIR, insulin intake, and anomaly presence.
   - Exports daily evaluation to a color-coded Excel file.
  
--  **Table creation:**
-  - Creation of table with colors for visual ease.
-  - Green for good scenario and red for bad scenario.
+- **Table creation:**  
+  - Creation of table with color guide for ease of analysis.
+  - Green for good scenario vs red for bad scenario.
+
 
 ## 🛠️ Requirements
 
