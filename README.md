@@ -24,6 +24,10 @@ This repository contains the **Anomalies Analysis** Jupyter notebook, which prov
   - Identifies days with glucose anomalies (2 and 3 standard deviations).
   - Flags days based on TIR, insulin intake, and anomaly presence.
   - Exports daily evaluation to a color-coded Excel file.
+ 
+-  **Table creation:**
+  - Creation of table with colors for visual ease.
+  - Green for good scenario and red for bad scenario.
 
 ## 🛠️ Requirements
 
